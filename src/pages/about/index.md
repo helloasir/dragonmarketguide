@@ -1,19 +1,57 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Dragon Mart
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Dubai Dragon Martis the largest China Market in Dubai. Cheap China products, best quality, largest collection, latest products, whole sale and retail sales. It have three Major Section of Shops
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## SHOPPING AT DRAGON MART
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+In Dragon Mart , you can find more that 1000 Shops offers you an exiting shopping experience on all kinds of Chinese products like Home Decor , Furniture , electrical , electronics,Toys , building materials, machinery , house hold items , fashion and cosmetics.   In other word you can find all items at Dragon Mart.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+#### SHOPPING CATEGORIES
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+* [BANKS AND MONEY EXCHANGE](https://www.dragonmart.ae/en/shoppings/ground_floor/banks-and-money-exchange)
+* [BUILDING MATERIALS](https://www.dragonmart.ae/en/shoppings/ground_floor/building-materials)
+* [ELECTRONICS](https://www.dragonmart.ae/en/shoppings/ground_floor/electronics)
+* [FASHION](https://www.dragonmart.ae/en/shoppings/ground_floor/fashion)
+* [FURNITURE](https://www.dragonmart.ae/en/shoppings/ground_floor/furniture)
+* [GENERAL MERCHANDISE](https://www.dragonmart.ae/en/shoppings/ground_floor/general-merchandise)
+* [HARDWARE AND MACHINERY](https://www.dragonmart.ae/en/shoppings/ground_floor/hardwares-machineries-tools)
+* [HOUSEHOLD ITEMS](https://www.dragonmart.ae/en/shoppings/ground_floor/household-items)
+* [LIGHTING](https://www.dragonmart.ae/en/shoppings/ground_floor/lighting)
+* [SERVICES](https://www.dragonmart.ae/en/shoppings/ground_floor/services)
+* [SPORTS](https://www.dragonmart.ae/en/shoppings/ground_floor/sports)
+* [TEXTILES](https://www.dragonmart.ae/en/shoppings/ground_floor/textiles)
+* [TOYS](https://www.dragonmart.ae/en/shoppings/ground_floor/toys)
+
+## DINING AT DRAGON MART
+
+In Dragon Mart you can get a wide range of dining options to suit every taste. From restaurants and cafes throughout the mall and at the food court to outdoor dining at Dragon Drive, Dragon Mart is the perfect place to unwind over a meal.
+
+#### DINING CATEGORIES
+
+* [CAFÉ SHOPS](https://www.dragonmart.ae/en/dinings/ground_floor/cafe-shops)
+* [DINING RESTAURANTS](https://www.dragonmart.ae/en/dinings/ground_floor/dining-restaurants)
+* [FOOD COURT](https://www.dragonmart.ae/en/dinings/ground_floor/food-court)
+* [ICE CREAM PARLORS](https://www.dragonmart.ae/en/dinings/ground_floor/ice-cream-parlors)
+* [JUICE BAR](https://www.dragonmart.ae/en/dinings/ground_floor/juice-bar)
+
+## ENTERTAINMENT IN DRAGON MART
+
+\
+Dragon Mart and Dragon Mart 2 always best destination for visitors of all ages. From cinemas to concerts that the all them members in whole family will surely enjoy.
+
+We host varieties of well-known artists who perform usually during weekdays and on holidays. We also hold events and activities wherein the little ones can participate in. There are also seasonal markets that offer visitors huge deals and discounts.
+
+<!--StartFragment-->
+
+#### CATEGORIES IN ENTERTAINMENT
+
+* [CINEMAS](https://www.dragonmart.ae/shoppings/detail/novo-cinemas)
+* [CONCERTS](https://www.dragonmart.ae/events/upcoming)
+* [LIVE SHOWS](https://www.dragonmart.ae/events/upcoming)
+* [KIDS' ACTIVITIES](https://www.dragonmart.ae/events/upcoming)
+* [SEASONAL MARKETS](https://www.dragonmart.ae/events/upcoming)
+
+<!--EndFragment-->
